@@ -1,8 +1,10 @@
 ### Hi, I'm Guilherme Brunner! 👋
 
-🔭 Front-End Developer based in Brazil
+🔭 Front-End with +2 years' experience
 
 🌱 Currently improving my Javascript Skills
+
+🌎 Based in Brazil
 
  <div>
   <a href="https://github.com/sgtbrunner"></a>
