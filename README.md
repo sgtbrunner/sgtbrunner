@@ -1,8 +1,26 @@
 ### Hi, I'm Guilherme Brunner! 👋
 
-🔭 Front-End developer with +2 years' experience
+2+ years of experience in Software Engineering specializing in Front-End development with Javascript and React contributing to development teams through active collaboration, quality code implementation and creating valuable experiences by putting the user at the center.
 
-🌱 Currently improving my Javascript Skills
+I believe building relevant digital products can positively impact people's lives. My job is to use my strong analytical skills to translate business requirements into technical specifications, building user-friendly web interfaces through scalable and maintainable code and connecting them to services that matter.
+
+Curious and eager for new experiences, I'm always looking for ways to improve my work and the team I'm working on. By collaborating with the development team on a daily basis and assisting other developers by sharing knowledge when necessary, I increase trust and help building stronger teams.
+
+My strong skills are on the Front-end, but I can also work with Back-end technologies if necessary.
+
+☑ Programming Languages: Javascript | Typescript | C#
+
+☑ Front-End Technologies: HTML5 | CSS3 | React | React Hooks | Redux | CSS-in-JS | Styled Components | Angular | Jest | Testing Library | GraphQL | StoryBook | LitElement | Tailwind CSS
+
+☑ Back-End Technologies: Node.js | Express.js | .NET Core | Restful API | MySQL | PostgreSQL | Firebase
+
+☑ Others: NPM | JSON | Git | GitHub | Gitlab | Docker | Heroku | Adobe Photoshop & Lightroom
+
+☑ Agile Methodologies: Scrum and Kanban
+
+🔭 Currently working on Crown Clothing
+
+🌱 Currently improving my Algorithms & Data Structures knowledge
 
 🌎 Based in Brazil
 
