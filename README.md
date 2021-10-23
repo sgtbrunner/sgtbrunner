@@ -2,7 +2,7 @@
 
 2+ years of experience in Software Engineering specializing in Front-End development with Javascript and React contributing to development teams through active collaboration, quality code implementation and creating valuable experiences by putting the user at the center.
 
-I believe building relevant digital products can positively impact people's lives. My job is to use my strong analytical skills to translate business requirements into technical specifications, building user-friendly web interfaces through scalable and maintainable code and connecting them to services that matter.
+I believe building relevant digital products can positively impact people's lives; therefore I help companies using my strong analytical skills to translate business requirements into technical specifications, building user-friendly web interfaces through scalable and maintainable code and connecting them to services that matter.
 
 Curious and eager for new experiences, I'm always looking for ways to improve my skills and the team I'm working on. By collaborating with the development team on a daily basis and assisting other developers through knowledge sharing, I increase trust and help building stronger teams.
 
@@ -51,6 +51,7 @@ My strong skills are on the Front-end, but I can also work with Back-end technol
 <p><a href="https://github.com/sgtbrunner/magicbrain-api">Magic Brain API</a>: An API to service the Magic Brain app with user authentication and face recognition (built with Javascript, Node.js and Clarifai Face Recognition API)</p>
 <p><a href="https://sgtbrunner.github.io/yummy-recipes/">Yummy Recipes</a>: Yummy Recipes can help you out with either your favourite recipes or your loved shopping list (built with Typescript, Angular and Firebase Realtime Database)</p>
 <p><a href="https://sgtbrunner.github.io/star-wars-guide-react/">Star Wars Guide</a>: A definitive Star Wars Character Guide featuring all characters from the original and prequel movie trilogies (built with Javascript, React, React Hooks, Redux)</p>
+<p><a href="https://sgtbrunner.github.io/robofriends/">Robofriends</a>: An awesome modern search card app (built with Javascript and React)</p>
 <p><a href="https://sgtbrunner.github.io/shopping-list/">Shopping List</a>: A cool looking Shopping List to help you in your next time grocery shopping. (built with HTML, CSS and vanilla Javascript)</p>
 <p><a href="https://sgtbrunner.github.io/background-generator/">Background Generator</a>: A page that generates a linear color gradient as a background. Includes user inputs and a randomize function. (built with HTML, CSS and vanilla Javascript)</p>
 
