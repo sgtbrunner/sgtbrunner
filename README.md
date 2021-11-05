@@ -7,6 +7,17 @@ I believe building relevant digital products can positively impact people's live
 Curious and eager for new experiences, I'm always looking for ways to improve my skills and the team I'm working on. By collaborating with the development team on a daily basis and assisting other developers through knowledge sharing, I increase trust and help building stronger teams.
 
 My strong skills are on the Front-end, but I can also work with Back-end technologies if necessary.
+
+☑ Programming Languages: Javascript | Typescript | C#
+
+☑ Front-End Technologies: HTML5 | CSS3 | React | React Hooks | Redux | CSS-in-JS | Styled Components | Angular | Jest | Enzyme | Testing Library | GraphQL | StoryBook | LitElement | Tailwind CSS
+
+☑ Back-End Technologies: Node.js | Express.js | .NET Core | Restful API | MySQL | PostgreSQL | Firebase
+
+☑ Others: NPM | JSON | Git | GitHub | Gitlab | Docker | Heroku | Adobe Photoshop & Lightroom
+
+☑ Agile Methodologies: Scrum and Kanban
+
 <div style="display: inline_block">
   <img align="center" alt="Brunner-HTML"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Brunner-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,16 +31,6 @@ My strong skills are on the Front-end, but I can also work with Back-end technol
   <img align="center" alt="Brunner-DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 <br>
-
-☑ Programming Languages: Javascript | Typescript | C#
-
-☑ Front-End Technologies: HTML5 | CSS3 | React | React Hooks | Redux | CSS-in-JS | Styled Components | Angular | Jest | Enzyme | Testing Library | GraphQL | StoryBook | LitElement | Tailwind CSS
-
-☑ Back-End Technologies: Node.js | Express.js | .NET Core | Restful API | MySQL | PostgreSQL | Firebase
-
-☑ Others: NPM | JSON | Git | GitHub | Gitlab | Docker | Heroku | Adobe Photoshop & Lightroom
-
-☑ Agile Methodologies: Scrum and Kanban
 
 🔭 Currently working on <a href="https://github.com/sgtbrunner/crown-clothing" target="_blank">Crown Clothing</a>
 
